@@ -16,6 +16,8 @@
 # PRODUCT_COPY_FILES to install the font files, so that the NOTICE file can
 # get installed too.
 
+ADDITIONAL_FONTS_FILE := external/google-fonts/google-sans/google-sans.xml
+
 PRODUCT_PACKAGES := \
     GoogleSans-Bold.ttf \
     GoogleSans-BoldItalic.ttf \
